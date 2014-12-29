@@ -1,0 +1,23 @@
+{
+  "name": "purescript-free-bug",
+  "main": "index.js",
+  "version": "0.0.0",
+  "authors": [
+    "Michael Xavier <michael@michaelxavier.net>"
+  ],
+  "moduleType": [
+    "globals"
+  ],
+  "license": "MIT",
+  "private": true,
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "purescript-free": "~0.1.6"
+  }
+}
